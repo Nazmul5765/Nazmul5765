@@ -1,8 +1,8 @@
 # Hi, I'm Nazmul 👋
 
-I'm an aspiring C# / .NET developer with a strong interest in backend development and problem-solving.
+I'm an Junior C# / .NET developer with a strong interest in backend development and problem-solving.
 
-### Aspiring C# / .NET Developer | Northcoders Bootcamp
+### Junior C# / .NET Developer | Northcoders Bootcamp
 
 ---
 
@@ -19,7 +19,7 @@ I'm an aspiring C# / .NET developer with a strong interest in backend developmen
 - C#, .NET  
 - Object-Oriented Programming  
 - Test-Driven Development (TDD)  
-- NUnit, Moq  
+- NUnit, Shouldly, Moq  
 - SQL Server  
 
 ---
