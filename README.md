@@ -1,8 +1,8 @@
 # Hi, I'm Nazmul 👋
 
-I'm an Junior C# / .NET developer with a strong interest in backend development and problem-solving.
+I'm a Junior C#/.NET developer with a strong interest in software development and problem-solving.
 
-### Junior C# / .NET Developer | Northcoders Bootcamp
+### Junior C#/.NET Developer | Northcoders Bootcamp
 
 ---
 
@@ -26,4 +26,10 @@ I'm an Junior C# / .NET developer with a strong interest in backend development 
 
 ## 🚀 Currently Learning
 - ASP.NET Core  
-- Backend development concepts  
+- REST APIs and backend development
+
+---
+
+## Projects
+
+- [Record Shop API](https://github.com/Nazmul5765/record-shop-api) – ASP.NET Core REST API using Entity Framework Core, SQL Server, and TDD
