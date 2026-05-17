@@ -24,11 +24,6 @@ I'm an Junior C# / .NET developer with a strong interest in backend development 
 
 ---
 
-## 📄 CV
-👉 [View my CV](https://github.com/Nazmul5765/nazmul-cv/blob/main/Nazmul_Hussain_CV.pdf)
-
----
-
 ## 🚀 Currently Learning
 - ASP.NET Core  
 - Backend development concepts  
