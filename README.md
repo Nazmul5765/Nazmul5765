@@ -67,8 +67,9 @@ Developed as part of the Northcoders Enterprise Engineering Bootcamp.
 
 ---
 
-## 🚀 Currently Learning
-- Advanced ASP.NET Core
-- Software Design Patterns
-- Authentication & Authorization
-- Clean Architecture
+🎯 Current Focus
+- Building full-stack applications with .NET
+- Learning React and TypeScript
+- Expanding backend development skills
+- Exploring cloud and deployment technologies
+- Seeking a Junior C#/.NET Developer opportunity
