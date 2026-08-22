@@ -73,7 +73,7 @@ Developed as my solo project during the Northcoders Enterprise Engineering Bootc
 - Used Entity Framework Core for data access, with PostgreSQL in the deployed application and SQL Server during development
 - Applied automated testing using NUnit, Moq and Shouldly across the application layers
 - Added custom health checks to monitor API and database availability
-- - Containerised the application using Docker and deployed it to Railway with PostgreSQL for production data storage
+- Containerised the application using Docker and deployed it to Railway with PostgreSQL for production data storage
 
 ---
 
