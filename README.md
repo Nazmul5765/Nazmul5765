@@ -54,7 +54,7 @@ Developed as a collaborative team project during the Northcoders Enterprise Engi
 
 ---
 
-### Record Shop – Full-Stack Record Catalogue Application
+### Record Shop – Full-Stack Record Shop Application
 
 **Live Application:** https://recordshop.nazmulhussain.co.uk  
 **Frontend:** https://github.com/Nazmul5765/record-shop-frontend  
@@ -64,7 +64,7 @@ Developed as a collaborative team project during the Northcoders Enterprise Engi
 
 Developed as my solo project during the Northcoders Enterprise Engineering Bootcamp and subsequently prepared for production deployment.
 
-- Built a full-stack record catalogue application using ASP.NET Core and Blazor
+- Built a full-stack record shop application using ASP.NET Core and Blazor
 - Developed a RESTful API with CRUD operations for managing records
 - Used a layered Controller, Service and Repository architecture to separate application responsibilities
 - Built reusable Blazor components with routing, forms and navigation
