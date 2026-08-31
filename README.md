@@ -38,7 +38,9 @@ I'm a Junior C#/.NET developer with a strong interest in backend development, pr
 ### Calico – Full-Stack Productivity & Lo-Fi Music Application
 
 **Live Application:** https://calico.nazmulhussain.co.uk
+
 **Frontend:** https://github.com/Nazmul5765/calico-frontend
+
 **Backend:** https://github.com/Nazmul5765/calico-backend
 
 **Tech Stack:** C# | ASP.NET Core | Blazor | Entity Framework Core | SQLite | Azure SQL | Supabase Authentication | JWT | YouTube API | Docker | Railway | GitHub Actions
@@ -66,7 +68,9 @@ Since the bootcamp, I've gone back to Calico independently and taken it from a g
 ### Record Shop – Full-Stack Record Shop Application
 
 **Live Application:** https://recordshop.nazmulhussain.co.uk
+
 **Frontend:** https://github.com/Nazmul5765/record-shop-frontend
+
 **Backend:** https://github.com/Nazmul5765/record-shop-api
 
 **Tech Stack:** C# | ASP.NET Core | Blazor | Entity Framework Core | PostgreSQL | SQL Server | NUnit | Moq | Shouldly | Docker | Railway | GitHub Actions
