@@ -17,11 +17,27 @@ I'm a Junior C#/.NET developer interested in backend development, problem-solvin
 
 ## Technical Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,sqlite,docker,git,github,azure" />
-</p>
+![C#](https://img.shields.io/badge/LANGUAGE-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/WEB-ASP.NET%20CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/UI-BLAZOR-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
-**Also working with:** ASP.NET Core · Blazor · Entity Framework Core · REST APIs · SQL Server · Supabase · NUnit · Moq · Shouldly · GitHub Actions · Railway
+![Entity Framework Core](https://img.shields.io/badge/ORM-ENTITY%20FRAMEWORK%20CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/DATABASE-POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/DATABASE-SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/DATABASE-SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![REST API](https://img.shields.io/badge/API-REST-005571?style=for-the-badge)
+![NUnit](https://img.shields.io/badge/TESTING-NUNIT-25A162?style=for-the-badge&logo=nunit&logoColor=white)
+![Docker](https://img.shields.io/badge/CONTAINERS-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI-GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![Azure](https://img.shields.io/badge/CLOUD-AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Supabase](https://img.shields.io/badge/BACKEND-SUPABASE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/VERSION%20CONTROL-GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Railway](https://img.shields.io/badge/DEPLOYMENT-RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+**Also working with:** Moq · Shouldly
 
 ---
 
